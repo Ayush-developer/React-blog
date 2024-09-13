@@ -1,0 +1,35 @@
+{
+    "blogs": [
+      {
+        "title": "Exploring the Wonders of Space",
+        "body": "This blog delves into the mysteries and marvels of outer space, from distant galaxies to black holes.",
+        "author": "Dr. Jane Smith",
+        "id": "1"
+      },
+      {
+        "title": "The Impact of Technology on Modern Education",
+        "body": "A discussion on how technology is transforming educational practices and enhancing learning experiences.",
+        "author": "John Doe",
+        "id": "2"
+      },
+      {
+        "title": "Sustainable Living: Tips for a Greener Lifestyle",
+        "body": "Practical advice on adopting sustainable habits to reduce your environmental footprint and live a more eco-friendly life.",
+        "author": "Emily Johnson",
+        "id": "3"
+      },
+      {
+        "title": "Culinary Adventures: Exploring International Cuisines",
+        "body": "Join us on a culinary journey as we explore diverse international cuisines and the cultural significance of various dishes.",
+        "author": "Michael Brown",
+        "id": "4"
+      }
+      ,
+      {
+        "title": "New Age of Magical Mystery",
+        "body": "Join us for the new and sppojky adventures awaitibng draculas , vampires ",
+        "author": "Micky Bartos",
+        "id": "5"
+      }
+    ]
+}

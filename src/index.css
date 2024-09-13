@@ -11,3 +11,56 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* App.css */
+
+.navbar {
+  background-color: #4A90E2; /* A modern blue background */
+  padding: 20px;
+  display: flex;
+  justify-content: center; /* Center the content */
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds subtle shadow */
+}
+
+.navbar ul {
+  list-style: none; /* Remove bullet points */
+  display: flex; /* Flexbox to make the items horizontal */
+  gap: 30px; /* Space between items */
+  margin: 0;
+  padding: 0;
+}
+
+.navbar ul li {
+  font-size: 18px; /* Slightly larger font */
+  font-weight: bold; /* Make it bold */
+  color: #ffffff; /* White text */
+  cursor: pointer; /* Pointer on hover */
+  transition: color 0.3s ease; /* Smooth color change on hover */
+}
+
+.navbar ul li:hover {
+  color: #FFC107; /* Change text color on hover */
+}
+
+/* Responsive for smaller screens */
+@media (max-width: 768px) {
+  .navbar {
+    justify-content: space-around;
+  }
+
+  .navbar ul {
+    flex-direction: column; /* Stack items vertically */
+    align-items: center;
+    gap: 20px;
+  }
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
